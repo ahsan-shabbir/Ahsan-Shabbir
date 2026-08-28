@@ -7,7 +7,7 @@
 ---
 
 ## **About Me**
-I am a **Data Scientist and AI Engineer** with extensive expertise in building innovative solutions for real-world challenges. Currently, I am leveraging my skills at **Pakistan Air Force** as a Research Officer, focusing on **data engineering**, **machine learning**, and **AI-based research**. 🌍 My experience spans across multiple domains, including **Natural Language Processing (NLP)**, **Time Series Analysis**, **Computer Vision**, and **Acoustic Signal Processing**, where I’ve developed cutting-edge models for tasks like real-time monitoring, sentiment analysis, and intelligent traffic management.
+I am a **Data Scientist and AI Engineer** with extensive expertise in building innovative solutions for real-world challenges. Currently, I am leveraging my skills at **confidential** as a Research Officer, focusing on **data engineering**, **machine learning**, and **AI-based research**. 🌍 My experience spans across multiple domains, including **Natural Language Processing (NLP)**, **Time Series Analysis**, **Computer Vision**, and **Acoustic Signal Processing**, where I’ve developed cutting-edge models for tasks like real-time monitoring, sentiment analysis, and intelligent traffic management.
 
 ### **My Expertise**
 - **Natural Language Processing (NLP):** Development of advanced models for chatbots, sentiment analysis, and conversational AI. 🤖  
