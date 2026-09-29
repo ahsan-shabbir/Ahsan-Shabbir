@@ -28,16 +28,6 @@ On the **web development** side, I am skilled in:
 
 ---
 
-## **Professional Experience**
-
-| No | Job Title                        | Company Name                      | Start Date        | End Date            | Location              |
-|----|----------------------------------|-----------------------------------|-------------------|---------------------|-----------------------|
-| 1  | Research Officer (Data Engineer & AI Engineer) | Confidential              | September 2023    | Present             | Islamabad, Pakistan   |
-| 2  | Data Engineer                    | Rapidev DMCC                      | November 2022     | March 2023          | Islamabad, Pakistan   |
-| 3  | Data Scientist                   | Smart Solutions                   | January 2020      | November 2022       | Faisalabad, Pakistan  |
-| 4  | Jr. Python Developer             | Gamica Cloud                      | March 2019        | December 2019       | Faisalabad, Pakistan  |
-
-
 
 ## My Technologies
 
