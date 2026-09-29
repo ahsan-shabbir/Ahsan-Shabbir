@@ -1,8 +1,7 @@
 ## Hi there 👋
 
 # **Ahsan Shabbir**
-📞 (+92) 317-1740992 | ✉️ ahsanshabbir815@gmail.com | 🌐 [LinkedIn](#)  
-**Location:** Islamabad, Pakistan  
+
 
 ---
 
